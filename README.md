@@ -1,4 +1,4 @@
-Project Summary: Students Performance Analysis This project focuses on data cleaning, exploratory data analysis (EDA) and machine learning modeling using the Students Performance dataset. The objective is to understand how different factors affect student performance and to build a Linear Regression model to predict academic sco
+Project Summary: Students Performance Analysis This project focuses on data cleaning, exploratory data analysis (EDA) and machine learning modeling using the Students Performance dataset. The objective is to understand how different factors affect student performance and to build a Linear Regression model to predict academic score.
 
 This updated .ipynb(Students Performance Analysis) contains following steps: 
 
