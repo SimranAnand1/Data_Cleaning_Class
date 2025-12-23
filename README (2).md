@@ -39,16 +39,6 @@ Recommended Python packages (install with pip):
 pip install pandas numpy matplotlib seaborn jupyterlab notebook
 ```
 
-Optionally, create a `requirements.txt` containing:
-
-```
-pandas
-numpy
-matplotlib
-seaborn
-jupyterlab
-```
-
 ---
 
 ## How to run
@@ -126,12 +116,3 @@ jupyterlab
 5. Add unit tests for preprocessing functions (if turning steps into Python scripts).
 
 ---
-
-## Author / Contact
-
-- Notebook author: Simran Anand (as in repository)
-- If you want help improving the notebook (refactor to pipeline, add modeling, or better imputation), reply here with what you'd like next and I can provide code snippets or a complete preprocessing script.
-
----
-
-License: (add a license file if you want — MIT is common for personal projects)
