@@ -1,39 +1,31 @@
-Project Summary: Students Performance Analysis This project focuses on data cleaning, exploratory data analysis (EDA) and machine learning modeling using the Students Performance dataset. The objective is to understand how different factors affect student performance and to build a Linear Regression model to predict academic score.
+This project demonstrates a complete data science workflow using Python. It includes data loading, data cleaning, exploratory data analysis (EDA), feature engineering, and basic modeling to extract meaningful insights from the dataset.
 
-This updated .ipynb(Students Performance Analysis) contains following steps: 
+The goal of this project is to analyze data, identify patterns, and generate actionable insights using standard data science techniques.
+Features
 
-a. Importing Required Libraries: 
-NumPy, Pandas → data handling 
-Matplotlib, Seaborn → visualization 
-Scikit-learn → model building & evaluation
+Data loading and preprocessing
 
-b. Loading the Dataset:
-Loaded the students performance dataset using Pandas.
+Handling missing values and outliers
 
-c. Data Cleaning:
-Checked for missing values and handled them. 
-Converted categorical variables into numerical form using encoding.
+Exploratory Data Analysis (EDA)
 
-d. Exploratory Data Analysis (EDA):
-Visualized score distributions using histograms. 
-Checked outlier by plotting boxplots.
+Data visualization using plots and charts
 
-e. Feature Selection:
-Selected relevant independent variables. 
-Defined the target variable (student score).
+Feature engineering
 
-f. Train-Test Split:
-Splitted the dataset into training and testing sets using train_test_split.
+Model building and evaluation (if applicable)
+Tech Stack
 
-g. Model Building (Linear Regression):
-Implemented Linear Regression using Scikit-learn. 
-Trained the model on the training dataset.
+Programming Language: Python
 
-h. Model Prediction:
-Generated predictions on the test data Compared predicted values with actual values.
+Libraries Used:
 
-i. Model Evaluation:
-Calculated evaluation metrics such as: 
-Mean Absolute Error (MAE) 
-Mean Squared Error (MSE) 
-R² Score
+NumPy
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn (if modeling is included)
