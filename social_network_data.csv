@@ -1,0 +1,5 @@
+username,password,friends,posts
+alice,alice123,"bob,charlie",Hello everyone!|Enjoying Python
+bob,bob123,"alice,david",Good morning!|Learning Git
+charlie,charlie123,alice,Data Science is fun
+david,david123,bob,Working on a social network project
